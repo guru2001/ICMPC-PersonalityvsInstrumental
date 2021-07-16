@@ -1,4 +1,5 @@
-# ICMPC
+# Personality Traits and preference for Instrumental Music on music streaming platforms
+## Ramaguru Guru Ravi Shanker, Yudhik Agrawal, Vinoo Alluri
 
 * The repository contains two folders:-
 	- codes
